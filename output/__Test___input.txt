@@ -1,0 +1,1 @@
+SELECT a,b,c FROM table_1 EXCEPT ALL SELECT e,f,g FROM table_2
